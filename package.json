@@ -1,0 +1,19 @@
+{
+  "name": "email-integration-backend",
+  "version": "1.0.0",
+  "description": "Email integration backend for authentication center",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["email", "authentication", "webhook", "otp"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.1"
+  }
+}
