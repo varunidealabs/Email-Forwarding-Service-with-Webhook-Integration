@@ -1084,9 +1084,7 @@ These fascinating insights reveal that transformers are far more versatile and m
  - YouTube
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
  
-Ajinkya Sambare
-# Week 1: Fundamentals of LLMs - Reference Resources     ## YouTube Learning Resources     ### 1. Intro to Large Language Models - Andrej Karpathy  **Description**: A general-audience introduction to Large Language Models covering what LLMs are, where they are headed, comparisons to present-day ope…
-this is for week 1, check if something is missing
+
  
 # Week 4: APIs for AI - Course Development Reference
 *Internal resource collection for curriculum building*
@@ -1820,11 +1818,8 @@ this is for week 1, check if something is missing
 4. Present cost analysis for fictional startup
  
 ---
-How to Build a Chatbot with Next.js, TailwindCSS, and OpenAI Chat Completion API - Full Tutorial
-Introduction   Are you interested in creating a dynamic and responsive chatbot? In our...
- 
-week 4, check if links are working
- 
+
+
 # Week 5: How to Think About Product - Reference Resources
 *Optimized Learning Order for AI-Era Product Management*
  
@@ -2546,14 +2541,7 @@ week 4, check if links are working
 5. **Measure Everything**: Use both traditional PM metrics and AI-specific indicators
  
 ---
-AI Product Management: Why You Need to Understand Machine Learning
-AI product management is becoming more important for software products, and how you can benefit from understanding machine learning.
- 
-Week 5, do checks links too
- 
-I adding them it's not done 
- 
-I will send soon 
+
  
 # Week 7: AI Limitations and Advanced Building - Resource Guide
 *Comprehensive resource collection for Product Managers*
@@ -3431,12 +3419,7 @@ This guide contains 45+ resources focused on understanding AI limitations, imple
 - **Hybrid architectures** as the dominant approach
 - **Continuous monitoring** as essential infrastructure
  
- - YouTube
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
- 
-week 7
-Ajinkya Sambare
-# Week 7: AI Limitations and Advanced Building - Resource Guide  *Comprehensive resource collection for Product Managers*     ## 📋 Resource Overview  This guide contains 45+ resources focused on understanding AI limitations, implementing advanced AI building techniques, and making informed decisio…
+ ---
  
  
 # Week 8: AI Productivity for PMs - Resource Guide
@@ -4413,4 +4396,3 @@ This comprehensive research analysis demonstrates that AI productivity tools for
  
 ---
 
- 
