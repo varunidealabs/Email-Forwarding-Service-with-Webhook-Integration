@@ -601,8 +601,7 @@ These fascinating insights reveal that transformers are far more versatile and m
 - Mathematical foundations enable predictable scaling and reliable performance guarantees
  
 ---
- - YouTube
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
  
 # Week 2: AI Landscape and Strategy - Reference Resources
  
@@ -3404,79 +3403,76 @@ This guide contains 50+ resources focused on AI productivity tools, workflow aut
  
 ---
  
-## 🎬 YouTube Learning Resources
-*Essential video tutorials for visual learners and hands-on implementation*
- 
 ### 1. AI Tools for Product Managers - Complete Guide 2024
 **Description**: Comprehensive overview of the top AI productivity tools specifically designed for product managers. This tutorial covers practical implementation strategies for ClickUp Brain, Motion's AI scheduling, and Figma AI integration. Features real-world case studies showing 40% productivity improvements and demonstrates how AI-enhanced PMs are replacing traditional approaches. Includes step-by-step setup guides and integration workflows.
- 
+
 **Key Topics**: AI tool selection criteria, implementation roadmaps, productivity metrics, integration strategies, workflow optimization, and ROI measurement frameworks for AI adoption.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "AI Tools Product Managers Complete Guide 2024")
- 
+
+**Video Link**: [5 Powerful AI Tools Every Product Manager Should Be Using](http://www.youtube.com/watch?v=FQVhUQoruo0)
+
 ---
- 
+
 ### 2. ClickUp Brain Tutorial - AI-Powered Project Management (2024)
 **Description**: Deep-dive tutorial into ClickUp Brain's AI capabilities, demonstrating how product managers can automate task creation, generate sprint goals, and optimize resource allocation. Features practical examples of Connected Search across integrated apps, AI-powered writing assistance, and automated workflow management. Shows real implementation with before/after productivity comparisons.
- 
+
 **Key Topics**: ClickUp Brain setup, task automation, Connected Search implementation, AI writing tools, integration management, and productivity optimization techniques.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "ClickUp Brain Tutorial AI Project Management 2024")
- 
+
+**Video Link**: [ClickUp AI: How to use ClickUp Brain](http://www.youtube.com/watch?v=cLEFi_7sJWo)
+
 ---
- 
+
 ### 3. Motion AI Scheduling - Revolutionary Time Management for PMs
 **Description**: Comprehensive tutorial on Motion's AI-powered scheduling system that automatically manages tasks, meetings, and deadlines for product management teams. Demonstrates how Motion integrates calendar management with task prioritization, accounts for team availability, and reprioritizes work on-the-fly. Features case studies from teams up to 150 people showing dramatic efficiency improvements.
- 
+
 **Key Topics**: Automatic scheduling setup, team coordination, deadline management, availability optimization, real-time reprioritization, and productivity measurement.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "Motion AI Scheduling Time Management PMs 2024")
- 
+
+**Video Link**: [Best Time Management Software 2025? Motion App vs Reclaim AI vs Clockwise](http://www.youtube.com/watch?v=t0z74GNZSVY)
+
 ---
- 
+
 ### 4. AI Rapid Prototyping with Figma, Replit, and Lovable (2024)
 **Description**: Hands-on tutorial demonstrating how product managers can create working prototypes in minutes using AI-powered tools. Shows the complete workflow from Figma design to functional prototype using Figma Make, Replit for full-stack applications, and Lovable for no-code development. Features real examples of PRD-to-prototype conversion and design-to-code automation.
- 
+
 **Key Topics**: Rapid prototyping workflows, design-to-code automation, no-code development, prototype testing, stakeholder presentation, and iteration strategies.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "AI Rapid Prototyping Figma Replit Lovable 2024")
- 
+
+**Video Link**: [I Turned My Old Figma Design Into a Real App in 30 Minutes with Bolt](http://www.youtube.com/watch?v=GpbygrQR2YM)
+
 ---
- 
+
 ### 5. Julius AI for Product Data Analysis - Complete Walkthrough
 **Description**: Step-by-step guide to using Julius AI for product data analysis, covering everything from data import to advanced predictive modeling. Demonstrates how product managers can ask natural language questions and receive immediate insights, create visualizations, and build forecasting models without technical expertise. Features real product data analysis scenarios and decision-making frameworks.
- 
+
 **Key Topics**: Data analysis setup, natural language querying, visualization creation, predictive modeling, insight generation, and data-driven decision making.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "Julius AI Product Data Analysis Complete Walkthrough")
- 
+
+**Video Link**: [Full Julius Product Walkthrough](http://www.youtube.com/watch?v=OdHLOqxM_XQ)
+
 ---
- 
+
 ### 6. AI Team Coordination with Catalist and Slack AI (2024)
 **Description**: Comprehensive tutorial on implementing AI-powered team coordination tools, focusing on Catalist's automated status reporting and Slack AI integration. Shows how to set up automated meeting transcription, generate actionable summaries, and create comprehensive project visibility. Features real team implementations and productivity metrics.
- 
+
 **Key Topics**: Team coordination automation, meeting transcription setup, automated reporting, project visibility, communication optimization, and coordination metrics.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "AI Team Coordination Catalist Slack AI 2024")
- 
+
+**Video Link**: [AI in Slack – How it Works in 2024](http://www.youtube.com/watch?v=Kl2UHSsokVg)
+
 ---
- 
+
 ### 7. Building AI Productivity Workflows - End-to-End Implementation
 **Description**: Advanced tutorial showing how to build comprehensive AI productivity workflows that integrate multiple tools for maximum efficiency. Covers workflow design principles, tool integration strategies, automation setup, and performance monitoring. Features real case studies of product teams achieving 60%+ productivity improvements through integrated AI workflows.
- 
+
 **Key Topics**: Workflow architecture, tool integration, automation design, performance monitoring, optimization strategies, and productivity measurement.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "Building AI Productivity Workflows End-to-End Implementation")
- 
+
+**Video Link**: [From Zero to Your First AI Agent in 25 Minutes (No Coding)](http://www.youtube.com/watch?v=EH5jx5qPabU)
+
 ---
- 
+
 ### 8. AI Product Intelligence with Amplitude and Mixpanel (2024)
 **Description**: Expert-level tutorial on leveraging AI features in Amplitude and Mixpanel for product intelligence. Demonstrates Ask Amplitude for natural language queries, Mixpanel's AI-driven insights, and advanced analytics automation. Shows how to set up predictive analytics, automated cohort analysis, and AI-powered experimentation frameworks.
- 
+
 **Key Topics**: Product intelligence setup, AI analytics configuration, predictive modeling, experimentation automation, user behavior analysis, and strategic insight generation.
- 
-**Video Link**: https://www.youtube.com/watch?v=dQw4w9WgXcQ (Search: "AI Product Intelligence Amplitude Mixpanel 2024")
- 
+
+**Video Link**: [Top 5 Product Management Trends for 2024 (with Top AI tools for Product Managers)](http://www.youtube.com/watch?v=-Lj03LV6Obg)
+
 ---
  
 ## 🔧 AI Workflow Automation Tools
@@ -4362,7 +4358,7 @@ This comprehensive research analysis demonstrates that AI productivity tools for
 - Strong vendor partnerships for continuous improvement
  
 ---
-# AI Agents Resources and References
+# Week 10
 
 ---
 
@@ -4424,47 +4420,47 @@ A short, insightful blog explaining the key difference between simple workflow a
 ## True AI Agents Capabilities (Where they shine):
 
 ### 13. **NASSCOM Community: Defining True AI Agents: Separating the Wheat from the Chaff:** This article outlines nine key criteria for what constitutes a "true" AI agent, including autonomy, context awareness, goal-oriented behavior, decision-making, adaptability, and proactive behavior.
-    https://community.nasscom.in/communities/data-science-ai-community/defining-true-ai-agents-separating-wheat-chaff
+   https://community.nasscom.in/communities/data-science-ai-community/defining-true-ai-agents-separating-wheat-chaff
 ### 14. **Medium (Bijit Ghosh): The Key Features That Enable AI Agents:** Explores the iterative cycles of thought, action, and observation that set AI agents apart, along with their capabilities in real-time learning, adaptation, predictive abilities, and interaction with various tools and APIs.
-    https://medium.com/@bijit211987/the-key-features-that-enable-ai-agents-3995acd29be7
+   https://medium.com/@bijit211987/the-key-features-that-enable-ai-agents-3995acd29be7
 
 ## Where AI Agents Fail (Limitations):
 
 ### 15. **Analytics Vidhya: AI Agents Applications: What they can and cannot do for a Business?:** Discusses limitations such as the lack of true creativity, struggles with nuanced context, dependence on quality data, and the inability to replace human judgment in complex ethical scenarios. It also highlights challenges like high investment, integration complexities, and the need for human oversight.
-    https://www.analyticsvidhya.com/blog/2025/01/ai-agents-applications/
+   https://www.analyticsvidhya.com/blog/2025/01/ai-agents-applications/
 ### 16. **Reddit (r/AI_Agents): Most failed implementations of AI agents are due to people not understanding the current state of AI.:** A candid discussion from practitioners about the realities of building AI agents, emphasizing the importance of context management, modularity, and the planner-executor-manager pattern.
-    https://www.reddit.com/r/AI_Agents/comments/1lvlgph/most_failed_implementations_of_ai_agents_are_due/
+   https://www.reddit.com/r/AI_Agents/comments/1lvlgph/most_failed_implementations_of_ai_agents_are_due/
 
 ## AI Agent Frameworks:
 
 ### 17. **IBM: AI Agent Frameworks: Choosing the Right Foundation for Your Business:** Provides an overview of popular open-source frameworks like AutoGen (Microsoft), CrewAI, LangChain, and LangGraph, highlighting their architectures and use cases.
-    https://www.ibm.com/think/insights/top-ai-agent-frameworks
+   https://www.ibm.com/think/insights/top-ai-agent-frameworks
 ### 18. **Botpress: Top 7 Free AI Agent Frameworks:** Another good resource for understanding different frameworks, including Botpress itself, and how they cater to various development needs (e.g., visual builders vs. custom coding).
-    https://botpress.com/blog/ai-agent-frameworks
+   https://botpress.com/blog/ai-agent-frameworks
 ### 19. **Databricks Documentation: Agent system design patterns:** Discusses design patterns like deterministic chains, single-agent systems with dynamic decisions, and multi-agent architectures, providing guidance on prompts, logging, and error handling.
-    https://docs.databricks.com/aws/en/generative-ai/guide/agent-system-design-patterns
+   https://docs.databricks.com/aws/en/generative-ai/guide/agent-system-design-patterns
 ### 20. **Amazon Web Services - YouTube: Agentic AI Design Patterns Introduction and walkthrough:** A video exploring foundational design patterns in agentic AI systems: reflection, tool use, planning, and multi-agent collaboration, with practical examples using Amazon Bedrock.
-    https://www.youtube.com/watch?v=MrD9tCNpOvU
+   https://www.youtube.com/watch?v=MrD9tCNpOvU
 
 ## Autonomous Job Search Agent: Building and Examples
 
 ### Concepts and Benefits:
 
 ### 21. **Joveo: The Ultimate Guide to AI Agents in Recruitment [2025]:** While focused on recruitment teams, this article gives excellent insights into how AI agents are transforming talent acquisition, including autonomous decision-making, continuous learning, and use cases like talent sourcing, screening, and job description optimization. It also touches on ethical concerns and implementation steps.
-    https://www.joveo.com/ai-agents-in-recruitment-agentic-ai-ultimate-guide/
+   https://www.joveo.com/ai-agents-in-recruitment-agentic-ai-ultimate-guide/
 ### 22. **Carv: Autonomous Recruitment: What Is It and How Do We Get There?:** Discusses the core principles of autonomous recruitment, including independent decision-making by AI systems in candidate engagement, screening, and even selection. It highlights the importance of contextual understanding and human-like behavior, while also acknowledging limitations.
-    https://www.carv.com/blog/autonomous-recruitment
+   https://www.carv.com/blog/autonomous-recruitment
 ### 23. **IJRASET: Job Search System: Application of Intelligent Agents:** A research paper detailing how intelligent agents can provide a personalized and efficient job search experience through dynamic profiles, adaptive learning algorithms (collaborative filtering), resume parsing, and job description analysis. It also covers the "Perception-Reasoning/Decision-Making-Action-Learning" cycle.
-    https://www.ijraset.com/research-paper/job-search-system-application-of-intelligent-agents
+   https://www.ijraset.com/research-paper/job-search-system-application-of-intelligent-agents
 
 ### Tools and Platforms (Examples of existing agents/platforms that can be adapted or inspire building):
 
 ### 24. **Relevance AI: Build and Recruit Autonomous AI Agents:** This platform offers a no-code approach to building AI agents, allowing users to create, train, and customize agents with various skills and triggers. It provides a good overview of the steps involved in creating an AI agent and how to integrate it.
-    https://relevanceai.com/agents
+   https://relevanceai.com/agents
 ### 25. **Sonara: AI Job Search Tool & AI Auto Apply:** An example of a commercial AI job search tool that automates finding relevant jobs and applying for them. While not an open-source framework for building, it showcases the capabilities of such agents.
-    https://www.sonara.ai/
+   https://www.sonara.ai/
 ### 26. **LazyApply - AI for Job Search:** Another commercial tool that automates job applications across multiple platforms, sends referral emails, and tracks applications. This provides a good example of the features an autonomous job search agent might have.
-    https://lazyapply.com/
+   https://lazyapply.com/
 
 ---
 
@@ -4472,22 +4468,22 @@ A short, insightful blog explaining the key difference between simple workflow a
 
 * **What are AI agents? Definition, examples, and types | Google Cloud**
     * This article offers a good foundational understanding of what AI agents are, with clear distinctions from AI assistants and bots. It touches on benefits like efficiency and improved decision-making – key for PMs.
-    https://cloud.google.com/discover/what-are-ai-agents
+    * https://cloud.google.com/discover/what-are-ai-agents
 * **From Tools to Team Players: The Rise of AI Agents in Product Management (Medium)**
     * This uses a great analogy of AI evolving from simple tools to "team members," which resonates well with how PMs think about collaboration and workflows.
-     https://medium.com/@pratyush.singh.001/from-tools-to-team-players-the-rise-of-ai-agents-in-product-management-19f855e99810
+    * https://medium.com/@pratyush.singh.001/from-tools-to-team-players-the-rise-of-ai-agents-in-product-management-19f855e99810
 * **AI agents vs traditional automation - why starting simple matters (Crossfuze)**
     * Crucial for PMs to understand the core difference: AI agents make decisions, while traditional automation follows rules. This article explains it simply with analogies like a train vs. a car.
-    https://www.crossfuze.com/post/ai-agents-vs-traditional-automation
+    * https://www.crossfuze.com/post/ai-agents-vs-traditional-automation
 * **How Agentic AI will redefine the role of the Product Manager (Franz Vitulli)**
     * This is a direct hit for PMs, discussing how AI agents change their role, shifting focus to outcomes, APIs, data strategy, and human-AI collaboration.
-    https://franzvitulli.com/agentic-ai-product-manager/
+    * https://franzvitulli.com/agentic-ai-product-manager/
 * **The Future of Product Management: How AI Will Reshape Your Role (Productboard Blog)**
     * While broader than just agents, this article provides context on AI's overall impact on product management, which is essential for understanding the strategic "why" behind agents.
-      https://www.productboard.com/blog/future-of-product-management-ai/
+    * https://www.productboard.com/blog/future-of-product-management-ai/
 * **Job Search System: Application of Intelligent Agents (IJRASET)**
     * This academic paper describes how intelligent agents can be applied to job search systems, covering aspects like personalized recommendations and automation. It can reinforce your example.
-      https://www.ijraset.com/research-paper/job-search-system-application-of-intelligent-agents
+    * https://www.ijraset.com/research-paper/job-search-system-application-of-intelligent-agents
 
 ---
 # Week 11
